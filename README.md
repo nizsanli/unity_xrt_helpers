@@ -5,5 +5,5 @@ Using this repository as a submodule will allow customization within multiple pa
 Add git submodule (preferably under Assets directory):
 
 ```
-$ git submodule add https://github.com/nizsanli/xrt_helpers.git
+$ git submodule add https://github.com/nizsanli/unity_xrt_helpers.git
 ```
